@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: WordClock2.PcbDoc   4/26/2024  8:42:18 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : WordClock2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.2mm)                                              Round             12        PTH        0.56inch (14.34mm)
+T2      14mil (0.356mm)                                           Round             5         PTH        1.47inch (37.39mm)
+T3      24mil (0.6mm)                                             Round             69        PTH        96.32inch (2446.45mm)
+T4      51mil (1.3mm)                                             Round             2         PTH        0.20inch (5.08mm)
+T5      126mil (3.2mm)                                            Round             4         PTH        31.33inch (795.85mm)
+T6      26mil (0.65mm)                                            Round             2         NPTH       0.23inch (5.78mm)
+T7      39mil (0.991mm)                                           Round             3         NPTH       0.28inch (7.21mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              97
+
+Total Processing Time (hh:mm:ss) : 00:00:00
